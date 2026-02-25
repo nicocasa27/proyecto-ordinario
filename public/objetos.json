@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "nombre": "Llaves del carro",
+        "ubicacion": "En las bancas frente a Rectoría",
+        "descripcion": "Llavero de los Pumas con 3 llaves y una alarma."
+    },
+    {
+        "id": 2,
+        "nombre": "Credencial de la Uni",
+        "ubicacion": "En la cafetería de Ingeniería",
+        "descripcion": "Credencial a nombre de Juan Pérez, facultad de Ciencias."
+    },
+    {
+        "id": 3,
+        "nombre": "Audífonos",
+        "ubicacion": "En el salón 204 del Edificio A",
+        "descripcion": "Audífonos In-ear blancos, marca Sony."
+    },
+    {
+        "id": 4,
+        "nombre": "Cargador de Laptop",
+        "ubicacion": "En la Biblioteca Central (piso 2)",
+        "descripcion": "Cargador marca HP, tenía una calcomanía de Batman."
+    },
+    {
+        "id": 5,
+        "nombre": "Calculadora Científica",
+        "ubicacion": "En el laboratorio de Física 1",
+        "descripcion": "Calculadora Casio negra, le falta la tapa."
+    },
+    {
+        "id": 6,
+        "nombre": "Libreta de apuntes",
+        "ubicacion": "En las jardineras del gimnasio",
+        "descripcion": "Libreta roja profesional con notas de Cálculo."
+    },
+    {
+        "id": 7,
+        "nombre": "Termo de agua",
+        "ubicacion": "En el área de comedor del edificio D",
+        "descripcion": "Termo metálico azul con rayones en la base."
+    },
+    {
+        "id": 8,
+        "nombre": "Chamarra de la facultad",
+        "ubicacion": "En las gradas de la cancha de fut",
+        "descripcion": "Chamarra gris con el logo de Administración."
+    },
+    {
+        "id": 9,
+        "nombre": "Mochila negra",
+        "ubicacion": "Cerca de los cajeros automáticos",
+        "descripcion": "Mochila marca Jansport, trae un libro de Historia."
+    },
+    {
+        "id": 10,
+        "nombre": "Estuche de lentes",
+        "ubicacion": "En el baño de hombres del tercer nivel",
+        "descripcion": "Estuche rígido café de marca Ray-Ban."
+    }
+]
