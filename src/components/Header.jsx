@@ -8,6 +8,7 @@ function Header() {
                     <a href="#inicio" className="nav-logo">Campus Lost & Found</a>
                     <ul className="nav-links">
                         <li><a href="#inicio">Inicio</a></li>
+                        <li><a href="#quienes-somos">Nosotros</a></li>
                         <li><a href="#buscar">Buscar</a></li>
                         <li><a href="#objetos">Objetos</a></li>
                         <li><a href="#reportar">Reportar</a></li>

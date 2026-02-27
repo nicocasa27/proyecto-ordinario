@@ -3,6 +3,7 @@ import Header from './components/Header';
 import ObjetoGrid from './components/ObjetoGrid';
 import BuscadorObjetos from './components/BuscadorObjetos';
 import ReportarObjeto from './components/ReportarObjeto';
+import QuienesSomos from './components/QuienesSomos';
 import './App.css';
 
 function App() {
@@ -28,6 +29,9 @@ function App() {
 
       <main className="container">
         <BuscadorObjetos items={items} />
+
+        <div id="quienes-somos" className="divisor"></div>
+        <QuienesSomos />
 
         <div id="objetos" className="divisor"></div>
 
